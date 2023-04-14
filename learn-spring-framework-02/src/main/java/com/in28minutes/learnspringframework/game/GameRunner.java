@@ -13,6 +13,9 @@ public class GameRunner {
 		this.game = game;
 	}
 
+	public GameRunner() {
+		
+	}
 	public void run() {
 		
 		System.out.println("Running game: " + game);
