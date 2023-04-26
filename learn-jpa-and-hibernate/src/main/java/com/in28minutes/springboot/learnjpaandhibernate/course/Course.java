@@ -1,5 +1,7 @@
 package com.in28minutes.springboot.learnjpaandhibernate.course;
 
+// jakarta.persistence는 줄여서 jpa로 api이다
+// hibernate는 jpa를 구현한 것 중 가장 유명한 것
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
